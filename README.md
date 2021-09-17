@@ -1,3 +1,3 @@
 # Kattis Solutions
-Programming Problem Solutions for [Kattis.com](https://open.kattis.com/)
+Python 3 Solutions for [Kattis.com](https://open.kattis.com/)
 
