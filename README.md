@@ -1,6 +1,8 @@
 # Kattis Solutions
 
-Python 3 Solutions for [Kattis.com](https://open.kattis.com/)
+Python 3 Solutions for [Kattis.com](https://open.kattis.com/). 
+
+Check out my profile @ [open.kattis.com/users/owen-smith](https://open.kattis.com/users/owen-smith)
 
 # Directory
 
