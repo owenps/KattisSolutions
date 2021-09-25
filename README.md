@@ -13,5 +13,5 @@ Check out my profile @ [open.kattis.com/users/owen-smith](https://open.kattis.co
 - [Happy Telephone](https://github.com/owenps/KattisSolutions/blob/main/happy_telephones.py)
 - [Lifting Walls](https://github.com/owenps/KattisSolutions/blob/main/lifting_walls.py)
 - [Pebble Solitaire](https://github.com/owenps/KattisSolutions/blob/main/pebble_solitaire.py)
-- [Radio Commerical](https://github.com/owenps/KattisSolutions/blob/main/radio_commerical.py)
+- [Radio Commerical](https://github.com/owenps/KattisSolutions/blob/main/radio_commercial.py)
 - [Virtual Friends](https://github.com/owenps/KattisSolutions/blob/main/virtual_friends.py)
