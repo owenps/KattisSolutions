@@ -12,6 +12,7 @@ Check out my profile @ [open.kattis.com/users/owen-smith](https://open.kattis.co
 - [Fruit Baskets](https://github.com/owenps/KattisSolutions/blob/main/fruit_baskets.py)
 - [Happy Telephone](https://github.com/owenps/KattisSolutions/blob/main/happy_telephones.py)
 - [Lifting Walls](https://github.com/owenps/KattisSolutions/blob/main/lifting_walls.py)
+- [Narrow Art Gallery](https://github.com/owenps/KattisSolutions/blob/main/narrow_art_gallery.py)
 - [Pebble Solitaire](https://github.com/owenps/KattisSolutions/blob/main/pebble_solitaire.py)
 - [Pebble Solitaire 2](https://github.com/owenps/KattisSolutions/blob/main/pebble_solitaire_2.py)
 - [Radio Commerical](https://github.com/owenps/KattisSolutions/blob/main/radio_commercial.py)
