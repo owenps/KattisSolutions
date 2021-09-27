@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-Python 3 Solutions for [Kattis.com](https://open.kattis.com/). 
+Python 3 Solutions for [Kattis.com](https://open.kattis.com/).
 
 Check out my profile @ [open.kattis.com/users/owen-smith](https://open.kattis.com/users/owen-smith)
 
@@ -13,5 +13,6 @@ Check out my profile @ [open.kattis.com/users/owen-smith](https://open.kattis.co
 - [Happy Telephone](https://github.com/owenps/KattisSolutions/blob/main/happy_telephones.py)
 - [Lifting Walls](https://github.com/owenps/KattisSolutions/blob/main/lifting_walls.py)
 - [Pebble Solitaire](https://github.com/owenps/KattisSolutions/blob/main/pebble_solitaire.py)
+- [Pebble Solitaire 2](https://github.com/owenps/KattisSolutions/blob/main/pebble_solitaire_2.py)
 - [Radio Commerical](https://github.com/owenps/KattisSolutions/blob/main/radio_commercial.py)
 - [Virtual Friends](https://github.com/owenps/KattisSolutions/blob/main/virtual_friends.py)
