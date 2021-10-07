@@ -13,6 +13,7 @@ Check out my profile @ [open.kattis.com/users/owen-smith](https://open.kattis.co
 - [Happy Telephone](https://github.com/owenps/KattisSolutions/blob/main/happy_telephones.py)
 - [Lifting Walls](https://github.com/owenps/KattisSolutions/blob/main/lifting_walls.py)
 - [Minimum Scalar Product](https://github.com/owenps/KattisSolutions/blob/main/minimum_scalar_product.py)
+- [Narrow Art Gallery](https://github.com/owenps/KattisSolutions/blob/main/narrow_art_gallery.py)
 - [Pebble Solitaire](https://github.com/owenps/KattisSolutions/blob/main/pebble_solitaire.py)
 - [Pebble Solitaire 2](https://github.com/owenps/KattisSolutions/blob/main/pebble_solitaire_2.py)
 - [Planting Trees](https://github.com/owenps/KattisSolutions/blob/main/planting_trees.py)
