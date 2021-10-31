@@ -26,5 +26,6 @@ Check out my profile @ [open.kattis.com/users/owen-smith](https://open.kattis.co
 - [Quick Estimates](https://github.com/owenps/KattisSolutions/blob/main/quick_estimates.py)
 - [Radio Commerical](https://github.com/owenps/KattisSolutions/blob/main/radio_commercial.py)
 - [Solving for Carrots](https://github.com/owenps/KattisSolutions/blob/main/solving_for_carrots.py)
+- [String Matching](https://github.com/owenps/KattisSolutions/blob/main/string_matching.py)
 - [Trik](https://github.com/owenps/KattisSolutions/blob/main/trik.py)
 - [Virtual Friends](https://github.com/owenps/KattisSolutions/blob/main/virtual_friends.py)
